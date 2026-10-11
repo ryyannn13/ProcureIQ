@@ -1,0 +1,501 @@
+PO Number,Order Date,Supplier Name,Category,Item Description,Quantity,Unit Price,Total Cost,Department,Contract ID,Invoice ID
+PO-00001,2024-05-22,Apex Office Supplies Pvt Ltd,Hardware,Laptop,95,479.77,959.55,Marketing,C-1001,INV-00303
+PO-00002,2025-09-08,Apex Office Supplies Pvt Ltd,Facilities,Cleaning service,4,30.9,278.07,Finance,C-1004,INV-00215
+PO-00003,2025-03-08,Pioneer Industrial Supply,Office Supplies,Notebooks,44,188.61,943.03,Finance,C-1002,INV-00391
+PO-00004,2024-12-18,Apex Office Supply Private Limited,Logistics,Freight shipment,78,91.6,457.99,IT,NO-CONTRACT,INV-00275
+PO-00005,2025-09-25,Apex Office Supply Private Limited,IT & Software,Monitor,47,93.9,939.01,Finance,C-1001,INV-00024
+PO-00006,2025-04-09,Metro Business Systems,Hardware,Monitor,82,237.55,1425.28,Finance,C-1003,INV-00182
+PO-00007,2024-09-07,Apex Office Supply Private Limited,Office Supplies,Desk chair,21,91.15,729.23,HR,C-1003,INV-00328
+PO-00008,2024-08-04,GreenLeaf Facilities,Hardware,Monitor,73,69.46,416.76,Finance,NO-CONTRACT,INV-00203
+PO-00009,2025-07-28,Northstar IT Services,Hardware,Network switch,69,76.36,381.81,Marketing,NO-CONTRACT,INV-00460
+PO-00010,2024-02-18,GreenLeaf Facilities,Professional Services,Training session,15,203.7,611.11,Finance,NO-CONTRACT,INV-00306
+PO-00011,2024-09-14,Summit Software Inc,IT & Software,Monitor,71,782.78,782.78,IT,C-1004,INV-00385
+PO-00012,2025-04-09,GreenLeaf Facilities,Logistics,Warehouse handling,1,44.19,220.94,Marketing,C-1002,INV-00260
+PO-00013,2024-06-14,ClearView Consulting,IT & Software,Laptop,70,80.67,726.01,IT,C-1004,INV-00166
+PO-00014,2024-02-29,Apex Office Supply Private Limited,Facilities,Cleaning service,31,121.0,1210.03,IT,C-1001,INV-00375
+PO-00015,2025-05-01,ClearView Consulting,Facilities,Cleaning service,71,312.98,938.93,Operations,C-1004,INV-00447
+PO-00016,2025-02-12,BlueRiver Logistics Ltd,Professional Services,Training session,86,263.16,1578.95,HR,C-1004,INV-00232
+PO-00017,2024-01-08,BlueRiver Logistics Ltd,IT & Software,Cloud subscription,10,728.55,728.55,Finance,C-1001,INV-00464
+PO-00018,2025-05-12,Apex Office Supply Private Limited,IT & Software,Laptop,28,68.81,619.31,Finance,C-1004,INV-00296
+PO-00019,2024-04-09,Urban Freight Co,Facilities,Cleaning service,85,149.6,1047.17,Operations,NO-CONTRACT,INV-00211
+PO-00020,2024-12-13,Apex Office Supplies Pvt Ltd,Facilities,Security service,14,56.45,225.82,Finance,C-1002,INV-00275
+PO-00021,2024-03-18,Summit Software Inc,Facilities,Cleaning service,57,28.33,254.96,IT,C-1001,INV-00334
+PO-00022,2024-08-06,Apex Office Supply Private Limited,Professional Services,Consulting hours,52,233.69,233.69,Finance,NO-CONTRACT,INV-00002
+PO-00023,2025-07-23,,Facilities,Maintenance parts,85,26.8,214.41,Finance,C-1002,INV-00152
+PO-00024,2024-11-17,Pioneer Industrial Supply,Office Supplies,Printer paper,8,867.89,867.89,Marketing,NO-CONTRACT,INV-00258
+PO-00025,2025-11-22,Apex Office Supplies Pvt Ltd,Professional Services,Consulting hours,31,27.74,194.17,IT,C-1004,INV-00127
+PO-00026,2025-08-20,Apex Office Supplies Pvt Ltd,Professional Services,Audit support,73,90.24,812.2,Operations,C-1003,INV-00105
+PO-00027,2025-10-22,BlueRiver Logistics Ltd,Hardware,Docking station,39,50.77,406.16,Operations,C-1001,INV-00005
+PO-00028,2024-12-23,Pioneer Industrial Supply,Facilities,Security service,9,85.16,340.62,Operations,C-1003,INV-00081
+PO-00029,2025-11-10,Metro Business Systems,Facilities,Security service,14,388.14,1164.43,Operations,C-1001,INV-00456
+PO-00030,2024-12-17,Metro Business Systems,IT & Software,Cloud subscription,27,80.43,402.16,Marketing,NO-CONTRACT,INV-00129
+PO-00031,2024-09-25,Summit Software Inc,IT & Software,Annual software license,21,56.9,455.21,Marketing,NO-CONTRACT,INV-00288
+PO-00032,2025-03-16,Apex Office Supply Private Limited,IT & Software,Annual software license,17,393.0,393.0,Operations,C-1003,INV-00461
+PO-00033,2024-12-28,BlueRiver Logistics Ltd,IT & Software,Laptop,100,148.4,1335.56,HR,C-1004,INV-00384
+PO-00034,2025-02-25,Northstar IT Services,Office Supplies,Toner cartridge,86,252.21,1008.83,Operations,C-1002,INV-00404
+PO-00035,2025-04-16,Summit Software Inc,Hardware,Laptop,45,13.25,66.24,Finance,C-1002,INV-00013
+PO-00036,2024-10-12,Summit Software Inc,Hardware,Monitor,45,10.56,95.0,HR,C-1004,INV-00170
+PO-00037,2025-03-20,Metro Business Systems,IT & Software,Annual software license,45,68.35,410.11,HR,C-1004,INV-00262
+PO-00038,2025-07-05,Pioneer Industrial Supply,IT & Software,Monitor,88,123.9,495.61,Operations,NO-CONTRACT,INV-00036
+PO-00039,2024-11-03,Pioneer Industrial Supply,,Docking station,65,20.19,100.95,HR,C-1003,INV-00207
+PO-00040,2025-01-23,ClearView Consulting,Hardware,Docking station,87,78.54,235.62,Marketing,C-1004,INV-00155
+PO-00041,2025-08-16,Apex Office Supplies Pvt Ltd,Facilities,Security service,78,69.83,419.01,HR,NO-CONTRACT,INV-00227
+PO-00042,2024-06-22,ClearView Consulting,Hardware,Monitor,85,202.59,405.18,Operations,C-1004,INV-00340
+PO-00043,2025-11-19,Apex Office Supply Private Limited,Hardware,Docking station,40,972.14,3888.55,Finance,C-1002,INV-00013
+PO-00044,2025-04-11,Urban Freight Co,IT & Software,Cloud subscription,54,121.3,1213.03,Finance,NO-CONTRACT,INV-00254
+PO-00045,2024-04-19,Northstar IT Services,Facilities,Cleaning service,100,422.22,2955.53,Finance,C-1002,INV-00412
+PO-00046,2024-05-04,Apex Office Supplies Pvt Ltd,Hardware,Network switch,59,553.17,1659.52,HR,C-1004,INV-00287
+PO-00047,2025-05-31,Urban Freight Co,Professional Services,Training session,55,1800.8,16207.2,HR,C-1002,INV-00381
+PO-00048,2024-10-10,Metro Business Systems,Facilities,Maintenance parts,99,662.11,5959.03,HR,C-1002,INV-00141
+PO-00049,2025-07-07,Metro Business Systems,Facilities,Cleaning service,11,111.99,335.98,Finance,C-1002,INV-00197
+PO-00050,2025-07-09,BlueRiver Logistics Ltd,Hardware,Monitor,60,29.41,205.89,IT,C-1002,INV-00427
+PO-00051,2025-05-03,Pioneer Industrial Supply,Facilities,Maintenance parts,1,371.08,2226.48,Operations,NO-CONTRACT,INV-00437
+PO-00052,2025-05-12,ClearView Consulting,Facilities,Security service,4,83.97,587.8,Operations,NO-CONTRACT,INV-00371
+PO-00053,2025-11-09,Northstar IT Services,Office Supplies,Notebooks,4,1287.99,2575.99,HR,C-1002,INV-00444
+PO-00054,2025-04-10,Apex Office Supplies Pvt Ltd,Facilities,Cleaning service,42,59.64,357.83,HR,C-1003,INV-00386
+PO-00055,2024-02-23,Apex Office Supply Private Limited,Facilities,Maintenance parts,45,126.62,506.48,IT,C-1001,INV-00387
+PO-00056,2024-09-01,BlueRiver Logistics Ltd,IT & Software,Cloud subscription,17,277.8,2222.39,IT,C-1004,INV-00112
+PO-00057,2025-09-13,Metro Business Systems,Facilities,Security service,96,480.35,960.7,Finance,C-1003,INV-00056
+PO-00058,2025-01-19,Metro Business Systems,Professional Services,Consulting hours,51,500.41,2001.63,IT,C-1004,INV-00354
+PO-00059,2025-12-01,Apex Office Supply Private Limited,Hardware,Monitor,77,454.21,908.42,Marketing,C-1001,INV-00178
+PO-00060,2025-05-16,GreenLeaf Facilities,Professional Services,Training session,14,25.25,176.73,Operations,NO-CONTRACT,INV-00363
+PO-00061,2025-07-05,Northstar IT Services,Office Supplies,Notebooks,100,13.1,104.8,HR,NO-CONTRACT,INV-00423
+PO-00062,2025-09-16,GreenLeaf Facilities,Hardware,Docking station,86,42.79,299.54,Operations,C-1001,INV-00254
+PO-00063,2024-12-14,Urban Freight Co,Logistics,Freight shipment,36,7.55,75.46,Operations,C-1004,INV-00006
+PO-00064,2025-07-22,Apex Office Supply Private Limited,Professional Services,Consulting hours,98,79.7,318.81,HR,NO-CONTRACT,INV-00230
+PO-00065,2024-11-09,Metro Business Systems,IT & Software,Annual software license,85,16.12,161.23,Operations,NO-CONTRACT,INV-00284
+PO-00066,2024-11-09,Summit Software Inc,Professional Services,Training session,33,101.3,405.21,IT,C-1002,INV-00162
+PO-00067,2025-08-26,BlueRiver Logistics Ltd,IT & Software,Cloud subscription,98,29.99,269.94,Marketing,C-1003,INV-00052
+PO-00068,2025-12-26,BlueRiver Logistics Ltd,Office Supplies,Desk chair,69,150.0,450.0,Operations,C-1001,INV-00028
+PO-00069,2024-04-15,Northstar IT Services,Professional Services,Training session,2,135.73,1357.29,Operations,NO-CONTRACT,INV-00246
+PO-00070,2025-05-04,Northstar IT Services,Facilities,Maintenance parts,15,746.13,1492.27,HR,NO-CONTRACT,INV-00038
+PO-00071,2025-03-02,Apex Office Supplies Pvt Ltd,Professional Services,Audit support,78,26.22,262.2,Marketing,C-1002,INV-00398
+PO-00072,2025-08-25,Urban Freight Co,Professional Services,Training session,55,280.99,1404.96,Marketing,C-1004,INV-00031
+PO-00073,2024-06-09,Apex Office Supply Private Limited,Professional Services,Audit support,31,58.0,174.0,Marketing,C-1001,INV-00081
+PO-00074,2024-02-03,Urban Freight Co,IT & Software,Monitor,30,202.65,1013.27,Operations,NO-CONTRACT,INV-00037
+PO-00075,2025-11-08,Metro Business Systems,Hardware,Monitor,26,263.35,1843.46,IT,C-1004,INV-00116
+PO-00076,2025-08-05,Metro Business Systems,Hardware,Monitor,37,37.23,297.8,IT,NO-CONTRACT,INV-00353
+PO-00077,2025-05-20,Summit Software Inc,Logistics,Warehouse handling,57,1095.64,2191.28,Marketing,C-1001,INV-00456
+PO-00078,2024-08-22,GreenLeaf Facilities,Facilities,Security service,87,70.29,702.93,Marketing,C-1001,INV-00392
+PO-00079,2024-10-11,Pioneer Industrial Supply,Hardware,Docking station,24,53.2,531.96,HR,NO-CONTRACT,INV-00047
+PO-00080,2024-06-13,Summit Software Inc,Facilities,Maintenance parts,43,41.15,288.05,HR,C-1003,INV-00340
+PO-00081,2024-11-27,Apex Office Supplies Pvt Ltd,Facilities,Security service,15,78.1,546.7,Marketing,C-1001,INV-00337
+PO-00082,2025-09-29,Summit Software Inc,Professional Services,Training session,97,19.5,156.04,HR,C-1001,INV-00105
+PO-00083,2025-12-16,Northstar IT Services,Logistics,Warehouse handling,63,913.01,1826.02,IT,C-1004,INV-00410
+PO-00084,2024-04-05,Metro Business Systems,Office Supplies,Toner cartridge,29,355.11,710.22,HR,C-1001,INV-00332
+PO-00085,2025-05-09,Metro Business Systems,Office Supplies,Notebooks,61,153.16,612.66,HR,C-1004,INV-00075
+PO-00086,2024-03-12,Pioneer Industrial Supply,Facilities,Cleaning service,36,94.98,664.86,Operations,C-1004,INV-00137
+PO-00087,2025-11-06,Metro Business Systems,IT & Software,Laptop,63,647.33,1941.99,HR,C-1004,INV-00248
+PO-00088,2024-11-25,ClearView Consulting,Logistics,Courier service,25,278.44,1113.75,Marketing,NO-CONTRACT,INV-00120
+PO-00089,2025-01-25,GreenLeaf Facilities,Facilities,Cleaning service,50,673.11,2019.34,HR,C-1001,INV-00065
+PO-00090,2025-04-12,GreenLeaf Facilities,Professional Services,Audit support,2,166.96,500.89,HR,C-1002,INV-00039
+PO-00091,2024-03-23,GreenLeaf Facilities,Facilities,Maintenance parts,43,90.11,811.03,HR,C-1003,INV-00321
+PO-00092,2024-08-20,,Hardware,Network switch,96,3380.16,6760.33,HR,C-1001,INV-00390
+PO-00093,2024-01-30,Urban Freight Co,Hardware,Laptop,6,50.09,300.52,IT,C-1003,INV-00184
+PO-00094,2025-11-29,Northstar IT Services,Logistics,Courier service,24,106.37,319.12,Finance,C-1001,INV-00313
+PO-00095,2024-08-25,BlueRiver Logistics Ltd,Facilities,Security service,60,119.39,596.95,HR,C-1003,INV-00342
+PO-00096,2025-03-28,Metro Business Systems,IT & Software,Monitor,45,81.86,818.59,Operations,NO-CONTRACT,INV-00354
+PO-00097,2025-05-09,Metro Business Systems,Logistics,Courier service,14,73.77,295.06,HR,C-1004,INV-00184
+PO-00098,2025-12-03,Metro Business Systems,Professional Services,Training session,100,516.37,516.37,Marketing,NO-CONTRACT,INV-00427
+PO-00099,2024-07-13,Pioneer Industrial Supply,Logistics,Freight shipment,80,211.52,1057.58,Finance,C-1001,INV-00463
+PO-00100,2024-10-29,Metro Business Systems,Hardware,Laptop,42,68.53,479.68,Finance,C-1002,INV-00068
+PO-00101,2024-06-17,ClearView Consulting,Professional Services,Training session,33,75.5,604.01,Operations,C-1003,INV-00412
+PO-00102,2025-02-10,Apex Office Supply Private Limited,IT & Software,Monitor,72,673.49,4040.95,IT,NO-CONTRACT,INV-00008
+PO-00103,2025-11-19,Apex Office Supply Private Limited,Logistics,Warehouse handling,34,49.2,492.0,HR,C-1003,INV-00056
+PO-00104,2024-08-14,Urban Freight Co,Hardware,Monitor,83,865.66,1731.32,HR,C-1003,INV-00333
+PO-00105,2025-02-01,Northstar IT Services,Facilities,Cleaning service,59,43.47,260.81,Marketing,NO-CONTRACT,INV-00301
+PO-00106,2025-09-22,Summit Software Inc,Hardware,Monitor,53,468.22,2341.09,IT,C-1003,INV-00112
+PO-00107,2025-10-22,BlueRiver Logistics Ltd,Facilities,Maintenance parts,46,1090.48,1090.48,HR,C-1003,INV-00098
+PO-00108,2025-09-03,Apex Office Supply Private Limited,IT & Software,Monitor,3,1167.29,1167.29,Operations,C-1002,INV-00065
+PO-00109,2025-08-23,Apex Office Supply Private Limited,Professional Services,Consulting hours,28,442.55,1770.19,Operations,C-1002,INV-00404
+PO-00110,2024-05-13,Metro Business Systems,Professional Services,Consulting hours,70,221.76,1108.8,Finance,C-1001,INV-00339
+PO-00111,2025-08-25,Apex Office Supplies Pvt Ltd,IT & Software,Cloud subscription,42,226.55,226.55,Finance,C-1003,INV-00027
+PO-00112,2025-08-30,ClearView Consulting,Office Supplies,Notebooks,14,66.84,534.74,Marketing,C-1002,INV-00315
+PO-00113,2025-05-05,Urban Freight Co,IT & Software,Laptop,52,106.68,746.76,IT,NO-CONTRACT,INV-00365
+PO-00114,2024-05-09,Apex Office Supply Private Limited,Facilities,Cleaning service,36,44.38,443.82,Marketing,C-1004,INV-00365
+PO-00115,2025-09-11,Pioneer Industrial Supply,Logistics,Courier service,56,326.5,652.99,IT,C-1004,INV-00370
+PO-00116,2025-04-09,Urban Freight Co,Office Supplies,Notebooks,52,225.77,1580.37,IT,C-1003,INV-00219
+PO-00117,2025-04-30,Metro Business Systems,Logistics,Warehouse handling,9,242.39,484.78,IT,C-1001,INV-00222
+PO-00118,2025-07-29,Northstar IT Services,IT & Software,Laptop,72,122.37,734.19,IT,NO-CONTRACT,INV-00182
+PO-00119,2024-08-05,Apex Office Supplies Pvt Ltd,Hardware,Network switch,20,45.06,360.49,Finance,C-1001,INV-00180
+PO-00120,2025-03-15,Apex Office Supply Private Limited,Professional Services,Training session,72,147.9,1478.98,Marketing,C-1004,INV-00014
+PO-00121,2024-11-12,Metro Business Systems,Professional Services,Audit support,44,38.98,233.89,IT,C-1002,INV-00446
+PO-00122,2024-02-01,Apex Office Supply Private Limited,Office Supplies,Notebooks,12,16.11,144.95,Finance,NO-CONTRACT,INV-00215
+PO-00123,2025-08-04,Northstar IT Services,Facilities,Maintenance parts,77,152.35,304.71,IT,C-1002,INV-00081
+PO-00124,2025-05-12,Apex Office Supply Private Limited,Professional Services,Consulting hours,78,28.15,225.2,HR,C-1003,INV-00111
+PO-00125,2025-11-25,GreenLeaf Facilities,Professional Services,Consulting hours,76,65.23,521.87,Marketing,C-1003,INV-00024
+PO-00126,2024-05-02,Pioneer Industrial Supply,Office Supplies,Notebooks,1,129.37,1034.95,HR,C-1002,INV-00067
+PO-00127,2024-12-28,BlueRiver Logistics Ltd,Facilities,Security service,10,86.18,603.23,IT,NO-CONTRACT,INV-00010
+PO-00128,2025-12-27,GreenLeaf Facilities,Facilities,Cleaning service,82,111.39,779.74,Operations,C-1001,INV-00208
+PO-00129,2025-12-07,Northstar IT Services,IT & Software,Laptop,47,950.95,1901.9,HR,C-1001,INV-00125
+PO-00130,2024-11-13,Summit Software Inc,Facilities,Security service,96,106.28,637.68,Finance,C-1003,INV-00399
+PO-00131,2024-07-17,ClearView Consulting,Office Supplies,Printer paper,100,151.73,910.39,Operations,C-1002,INV-00121
+PO-00132,2025-11-02,Metro Business Systems,IT & Software,Cloud subscription,10,66.1,198.29,HR,NO-CONTRACT,INV-00387
+PO-00133,2025-10-20,Urban Freight Co,Professional Services,Audit support,82,564.93,5649.33,Operations,C-1003,INV-00078
+PO-00134,2024-10-08,Urban Freight Co,Facilities,Cleaning service,76,533.32,533.32,Operations,C-1004,INV-00038
+PO-00135,2024-10-20,Urban Freight Co,Logistics,Courier service,10,103.42,206.83,Marketing,C-1004,INV-00260
+PO-00136,2024-02-12,Pioneer Industrial Supply,Facilities,Maintenance parts,58,88.05,880.47,Finance,C-1003,INV-00310
+PO-00137,2024-12-17,Northstar IT Services,Facilities,Security service,92,1013.89,2027.79,Marketing,C-1002,INV-00021
+PO-00138,2025-01-07,Urban Freight Co,Office Supplies,Notebooks,48,131.7,658.49,HR,NO-CONTRACT,INV-00397
+PO-00139,2025-07-25,Pioneer Industrial Supply,Logistics,Warehouse handling,87,60.0,420.02,Operations,C-1003,INV-00371
+PO-00140,2025-11-02,GreenLeaf Facilities,Hardware,Monitor,90,207.5,1452.47,Finance,C-1004,INV-00363
+PO-00141,2024-05-10,ClearView Consulting,IT & Software,Laptop,86,28.21,253.88,IT,NO-CONTRACT,INV-00261
+PO-00142,2024-07-15,GreenLeaf Facilities,Logistics,Freight shipment,29,74.77,224.32,Finance,C-1001,INV-00152
+PO-00143,2025-09-03,GreenLeaf Facilities,IT & Software,Annual software license,49,844.12,2532.37,Finance,C-1002,INV-00426
+PO-00144,2024-08-31,Urban Freight Co,Hardware,Monitor,57,21.13,211.3,Operations,NO-CONTRACT,INV-00120
+PO-00145,2025-11-25,Metro Business Systems,Professional Services,Consulting hours,74,156.25,1249.97,HR,C-1003,INV-00399
+PO-00146,2024-07-23,ClearView Consulting,Facilities,Security service,78,174.14,522.41,Operations,C-1001,INV-00329
+PO-00147,2024-03-26,ClearView Consulting,Facilities,Maintenance parts,98,206.0,618.01,Operations,NO-CONTRACT,INV-00464
+PO-00148,2025-02-09,Summit Software Inc,Professional Services,Consulting hours,65,293.26,1759.57,Finance,NO-CONTRACT,INV-00042
+PO-00149,2025-10-27,Apex Office Supplies Pvt Ltd,Logistics,Freight shipment,43,149.59,448.78,Finance,C-1001,INV-00147
+PO-00150,2025-09-22,Northstar IT Services,Facilities,Security service,1,612.66,1225.32,IT,C-1003,INV-00111
+PO-00151,2024-05-04,Apex Office Supply Private Limited,Office Supplies,Notebooks,7,255.18,1020.7,HR,C-1004,INV-00235
+PO-00152,2025-06-11,Urban Freight Co,IT & Software,Annual software license,74,173.66,694.66,Finance,C-1003,INV-00220
+PO-00153,2025-11-15,BlueRiver Logistics Ltd,IT & Software,Laptop,11,75.91,683.2,Operations,C-1001,INV-00270
+PO-00154,2025-04-26,ClearView Consulting,Professional Services,Audit support,6,97.87,685.09,Operations,C-1003,INV-00383
+PO-00155,2025-10-05,Apex Office Supply Private Limited,,Laptop,14,25.79,257.9,Operations,C-1002,INV-00023
+PO-00156,2025-12-02,GreenLeaf Facilities,Logistics,Warehouse handling,60,130.94,1047.53,Finance,C-1002,INV-00033
+PO-00157,2024-07-23,Apex Office Supplies Pvt Ltd,Hardware,Network switch,6,73.2,439.22,Operations,C-1004,INV-00204
+PO-00158,2024-02-18,Metro Business Systems,Professional Services,Training session,84,10.44,62.65,Operations,C-1001,INV-00410
+PO-00159,2025-06-15,Summit Software Inc,Logistics,Courier service,35,297.62,595.25,HR,C-1001,INV-00221
+PO-00160,2024-12-01,ClearView Consulting,Professional Services,Consulting hours,85,86.09,430.47,Operations,NO-CONTRACT,INV-00309
+PO-00161,2024-02-13,Northstar IT Services,Hardware,Network switch,94,153.69,922.17,Marketing,NO-CONTRACT,INV-00141
+PO-00162,2025-06-09,Apex Office Supply Private Limited,Hardware,Laptop,96,305.45,916.34,IT,C-1002,INV-00435
+PO-00163,2025-01-27,Urban Freight Co,Professional Services,Audit support,73,1142.43,1142.43,Marketing,C-1002,INV-00348
+PO-00164,2024-05-20,GreenLeaf Facilities,Facilities,Maintenance parts,68,91.81,550.84,HR,C-1003,INV-00333
+PO-00165,2024-04-30,Apex Office Supply Private Limited,Logistics,Freight shipment,34,162.37,811.83,HR,C-1002,INV-00314
+PO-00166,2024-03-16,Urban Freight Co,Logistics,Warehouse handling,58,120.97,362.9,HR,C-1001,INV-00415
+PO-00167,2024-10-24,GreenLeaf Facilities,Hardware,Docking station,39,395.59,1186.78,Finance,C-1003,INV-00261
+PO-00168,2025-05-20,BlueRiver Logistics Ltd,Office Supplies,Printer paper,4,175.25,1051.51,Marketing,C-1004,INV-00189
+PO-00169,2024-11-12,Northstar IT Services,Facilities,Security service,51,89.94,719.56,Marketing,NO-CONTRACT,INV-00394
+PO-00170,2024-03-16,Apex Office Supply Private Limited,Facilities,Security service,58,33.8,270.44,Marketing,C-1003,INV-00066
+PO-00171,2024-02-26,Pioneer Industrial Supply,Professional Services,Audit support,16,22.25,200.25,Finance,C-1003,INV-00085
+PO-00172,2025-07-18,BlueRiver Logistics Ltd,Office Supplies,Desk chair,36,74.06,222.18,Operations,C-1004,INV-00274
+PO-00173,2025-09-11,Pioneer Industrial Supply,IT & Software,Cloud subscription,44,137.82,1378.19,IT,C-1001,INV-00042
+PO-00174,2025-10-16,BlueRiver Logistics Ltd,IT & Software,Laptop,4,146.61,1172.91,Marketing,C-1003,INV-00329
+PO-00175,2024-10-31,BlueRiver Logistics Ltd,Logistics,Courier service,59,1233.09,2466.17,IT,C-1002,INV-00226
+PO-00176,2024-11-16,Urban Freight Co,Facilities,Maintenance parts,92,33.48,200.89,Operations,NO-CONTRACT,INV-00067
+PO-00177,2024-05-05,ClearView Consulting,Logistics,Warehouse handling,35,35.28,282.21,Finance,C-1002,INV-00050
+PO-00178,2024-06-12,Summit Software Inc,IT & Software,Laptop,42,149.91,1499.1,Operations,C-1002,INV-00391
+PO-00179,2025-05-24,ClearView Consulting,Office Supplies,Notebooks,3,201.68,403.36,HR,C-1004,INV-00235
+PO-00180,2025-05-21,Pioneer Industrial Supply,Office Supplies,Toner cartridge,77,60.02,480.14,Operations,C-1004,INV-00005
+PO-00181,2025-02-14,Northstar IT Services,IT & Software,Monitor,7,110.41,1104.13,Marketing,C-1002,INV-00186
+PO-00182,2025-07-17,Apex Office Supply Private Limited,Professional Services,Training session,36,667.77,6677.7,Marketing,C-1001,INV-00066
+PO-00183,2025-01-09,GreenLeaf Facilities,IT & Software,Monitor,97,384.53,1153.6,Finance,C-1004,INV-00261
+PO-00184,2025-04-12,Apex Office Supplies Pvt Ltd,Facilities,Security service,20,37.89,378.94,Marketing,C-1002,INV-00168
+PO-00185,2024-11-02,Northstar IT Services,Professional Services,Training session,76,66.77,400.61,Marketing,C-1004,INV-00273
+PO-00186,2025-01-12,Pioneer Industrial Supply,Facilities,Security service,43,61.7,123.41,HR,C-1004,INV-00158
+PO-00187,2025-08-15,Pioneer Industrial Supply,Hardware,Laptop,74,48.84,195.35,IT,C-1004,INV-00246
+PO-00188,2025-08-09,Northstar IT Services,Office Supplies,Notebooks,90,558.81,1117.62,Finance,C-1001,INV-00226
+PO-00189,2025-05-28,Northstar IT Services,Logistics,Courier service,100,51.31,513.15,HR,C-1001,INV-00362
+PO-00190,2025-06-22,ClearView Consulting,Office Supplies,Toner cartridge,49,47.13,282.8,Finance,NO-CONTRACT,INV-00468
+PO-00191,2025-11-28,ClearView Consulting,Professional Services,Training session,83,47.4,237.01,Marketing,NO-CONTRACT,INV-00099
+PO-00192,2025-05-15,ClearView Consulting,Office Supplies,Desk chair,41,197.38,1579.04,Operations,C-1004,INV-00408
+PO-00193,2025-01-23,Metro Business Systems,Hardware,Docking station,51,18.23,109.39,Finance,C-1003,INV-00022
+PO-00194,2024-09-19,Apex Office Supply Private Limited,Logistics,Warehouse handling,96,50.34,402.72,Finance,C-1002,INV-00424
+PO-00195,2025-09-22,ClearView Consulting,Professional Services,Training session,95,83.85,838.46,Finance,C-1002,INV-00026
+PO-00196,2025-04-28,BlueRiver Logistics Ltd,Hardware,Monitor,13,65.97,197.9,IT,C-1004,INV-00081
+PO-00197,2024-10-21,Urban Freight Co,Facilities,Security service,42,115.52,577.62,IT,C-1001,INV-00334
+PO-00198,2024-02-08,ClearView Consulting,Professional Services,Consulting hours,23,879.72,6158.04,Finance,C-1001,INV-00429
+PO-00199,2024-05-17,Northstar IT Services,Facilities,Maintenance parts,65,85.23,681.82,Operations,C-1002,INV-00415
+PO-00200,2024-07-09,Northstar IT Services,IT & Software,Laptop,2,261.5,1569.03,Operations,C-1004,INV-00346
+PO-00201,2024-03-29,Pioneer Industrial Supply,Office Supplies,Toner cartridge,52,804.76,1609.53,Finance,C-1002,INV-00245
+PO-00202,2024-09-30,Apex Office Supplies Pvt Ltd,Logistics,Freight shipment,43,76.27,381.35,Marketing,C-1004,INV-00006
+PO-00203,2024-05-01,GreenLeaf Facilities,Logistics,Warehouse handling,60,162.43,812.17,Finance,NO-CONTRACT,INV-00352
+PO-00204,2024-10-29,Metro Business Systems,Professional Services,Audit support,48,129.73,1297.29,Finance,C-1002,INV-00069
+PO-00205,2025-03-01,Urban Freight Co,Facilities,Cleaning service,90,167.17,1504.57,HR,C-1004,INV-00411
+PO-00206,2024-03-24,BlueRiver Logistics Ltd,Hardware,Monitor,68,144.2,1153.58,Marketing,C-1003,INV-00040
+PO-00207,2024-06-17,Apex Office Supplies Pvt Ltd,Professional Services,Consulting hours,42,26.19,235.72,HR,C-1001,INV-00349
+PO-00208,2024-02-26,Apex Office Supply Private Limited,Office Supplies,Notebooks,59,572.69,1718.06,Marketing,NO-CONTRACT,INV-00234
+PO-00209,2024-01-23,,Professional Services,Consulting hours,51,90.6,452.99,IT,C-1002,INV-00297
+PO-00210,2024-03-02,Summit Software Inc,IT & Software,Annual software license,9,59.05,472.41,IT,C-1003,INV-00210
+PO-00211,2025-04-04,Summit Software Inc,Office Supplies,Toner cartridge,49,15.95,111.65,IT,C-1004,INV-00069
+PO-00212,2025-06-25,Apex Office Supply Private Limited,Hardware,Docking station,17,54.62,218.5,IT,C-1001,INV-00153
+PO-00213,2024-08-23,ClearView Consulting,Facilities,Security service,32,62.95,503.59,Operations,C-1002,INV-00142
+PO-00214,2024-01-17,Apex Office Supplies Pvt Ltd,Office Supplies,Printer paper,31,327.26,1309.04,IT,C-1001,INV-00305
+PO-00215,2024-09-07,Pioneer Industrial Supply,IT & Software,Monitor,95,4285.45,4285.45,HR,NO-CONTRACT,INV-00120
+PO-00216,2025-11-19,Apex Office Supplies Pvt Ltd,Professional Services,Consulting hours,42,195.66,782.64,Operations,C-1002,INV-00339
+PO-00217,2025-08-28,Summit Software Inc,Professional Services,Consulting hours,95,147.17,441.51,HR,C-1004,INV-00254
+PO-00218,2025-03-02,Summit Software Inc,IT & Software,Laptop,53,369.86,1109.59,Operations,NO-CONTRACT,INV-00095
+PO-00219,2025-12-25,BlueRiver Logistics Ltd,Professional Services,Training session,19,155.88,1247.0,IT,C-1004,INV-00212
+PO-00220,2024-07-27,ClearView Consulting,Facilities,Security service,43,148.73,297.46,HR,C-1003,INV-00048
+PO-00221,2025-09-11,BlueRiver Logistics Ltd,Professional Services,Audit support,78,210.62,210.62,IT,C-1002,INV-00412
+PO-00222,2024-12-06,ClearView Consulting,Professional Services,Audit support,39,357.24,357.24,Finance,C-1002,INV-00380
+PO-00223,2025-02-10,BlueRiver Logistics Ltd,IT & Software,Monitor,31,175.17,1576.51,Operations,C-1003,INV-00195
+PO-00224,2025-05-24,GreenLeaf Facilities,Facilities,Security service,60,194.53,389.06,HR,C-1003,INV-00469
+PO-00225,2024-08-14,GreenLeaf Facilities,Office Supplies,Desk chair,95,150.58,451.74,IT,C-1003,INV-00284
+PO-00226,2024-08-23,Summit Software Inc,Professional Services,Audit support,49,41.51,415.07,Finance,NO-CONTRACT,INV-00282
+PO-00227,2025-10-19,Metro Business Systems,Hardware,Docking station,95,159.42,1275.35,HR,C-1002,INV-00376
+PO-00228,2025-07-09,Northstar IT Services,Logistics,Freight shipment,83,1127.6,1127.6,Marketing,C-1001,INV-00430
+PO-00229,2024-08-24,Apex Office Supplies Pvt Ltd,IT & Software,Annual software license,9,89.13,267.38,IT,C-1002,INV-00259
+PO-00230,2025-09-23,Apex Office Supplies Pvt Ltd,Facilities,Maintenance parts,62,125.99,1007.89,IT,C-1001,INV-00273
+PO-00231,2025-05-29,Apex Office Supplies Pvt Ltd,Professional Services,Training session,90,92.49,647.46,Finance,C-1001,INV-00050
+PO-00232,2024-12-28,BlueRiver Logistics Ltd,Professional Services,Consulting hours,35,33.3,233.07,IT,C-1003,INV-00208
+PO-00233,2025-10-31,BlueRiver Logistics Ltd,Facilities,Security service,84,3512.36,3512.36,IT,NO-CONTRACT,INV-00195
+PO-00234,2025-03-20,Urban Freight Co,Facilities,Security service,83,38.48,230.88,Marketing,C-1001,INV-00459
+PO-00235,2024-02-17,BlueRiver Logistics Ltd,Professional Services,Consulting hours,10,353.55,1767.76,Marketing,C-1004,INV-00337
+PO-00236,2025-08-03,GreenLeaf Facilities,IT & Software,Cloud subscription,50,34.18,307.58,Operations,NO-CONTRACT,INV-00387
+PO-00237,2024-02-24,Apex Office Supply Private Limited,Hardware,Monitor,13,89.94,629.56,Finance,C-1001,INV-00175
+PO-00238,2024-01-31,Pioneer Industrial Supply,Professional Services,Audit support,82,61.89,309.46,HR,NO-CONTRACT,INV-00117
+PO-00239,2025-11-07,Summit Software Inc,Logistics,Warehouse handling,49,220.65,441.3,Marketing,C-1003,INV-00409
+PO-00240,2025-10-11,Apex Office Supply Private Limited,Office Supplies,Printer paper,20,49.82,348.73,Operations,C-1003,INV-00055
+PO-00241,2024-04-14,Metro Business Systems,IT & Software,Annual software license,17,214.69,429.37,Finance,NO-CONTRACT,INV-00230
+PO-00242,2024-12-28,ClearView Consulting,Professional Services,Audit support,71,262.21,524.42,Marketing,C-1004,INV-00402
+PO-00243,2024-03-27,Apex Office Supplies Pvt Ltd,Logistics,Courier service,93,40.73,366.57,Finance,C-1004,INV-00267
+PO-00244,2025-05-19,Northstar IT Services,Office Supplies,Notebooks,19,141.64,283.28,Finance,NO-CONTRACT,INV-00142
+PO-00245,2024-09-09,Urban Freight Co,Facilities,Maintenance parts,93,143.41,1147.31,Marketing,C-1004,INV-00101
+PO-00246,2024-12-03,Northstar IT Services,Facilities,Cleaning service,57,52.67,316.03,HR,C-1004,INV-00070
+PO-00247,2025-12-12,Pioneer Industrial Supply,Logistics,Courier service,82,197.39,1579.14,Marketing,C-1002,INV-00167
+PO-00248,2024-01-28,Summit Software Inc,Facilities,Maintenance parts,94,10.1,80.76,Finance,NO-CONTRACT,INV-00409
+PO-00249,2025-10-10,Apex Office Supply Private Limited,Logistics,Warehouse handling,39,115.48,461.92,Operations,C-1002,INV-00367
+PO-00250,2025-08-19,Apex Office Supply Private Limited,Facilities,Maintenance parts,52,55.59,500.33,Marketing,NO-CONTRACT,INV-00279
+PO-00251,2024-04-21,ClearView Consulting,IT & Software,Laptop,99,743.93,2975.74,Operations,C-1002,INV-00332
+PO-00252,2025-03-16,Pioneer Industrial Supply,Professional Services,Consulting hours,14,333.0,333.0,IT,C-1003,INV-00114
+PO-00253,2024-08-14,ClearView Consulting,Professional Services,Audit support,58,131.5,788.99,HR,NO-CONTRACT,INV-00396
+PO-00254,2024-12-17,GreenLeaf Facilities,Hardware,Monitor,59,251.81,1007.26,Marketing,NO-CONTRACT,INV-00179
+PO-00255,2024-03-09,Urban Freight Co,Facilities,Cleaning service,39,1087.02,1087.02,IT,C-1001,INV-00435
+PO-00256,2024-09-06,Apex Office Supply Private Limited,Logistics,Warehouse handling,67,273.28,819.84,Marketing,C-1002,INV-00170
+PO-00257,2024-07-07,Urban Freight Co,Professional Services,Training session,24,44.56,311.93,HR,C-1001,INV-00378
+PO-00258,2025-12-22,Urban Freight Co,Professional Services,Consulting hours,28,187.49,749.94,Operations,C-1001,INV-00296
+PO-00259,2024-09-25,GreenLeaf Facilities,IT & Software,Cloud subscription,86,47.12,376.99,Marketing,C-1003,INV-00306
+PO-00260,2025-04-13,Summit Software Inc,Facilities,Security service,80,243.7,731.11,Operations,C-1004,INV-00303
+PO-00261,2024-07-06,GreenLeaf Facilities,IT & Software,Cloud subscription,48,89.94,269.83,Marketing,NO-CONTRACT,INV-00215
+PO-00262,2025-10-12,Pioneer Industrial Supply,Professional Services,Consulting hours,69,162.9,488.7,Marketing,C-1002,INV-00251
+PO-00263,2024-02-24,Northstar IT Services,Logistics,Freight shipment,46,367.79,367.79,HR,C-1002,INV-00100
+PO-00264,2025-05-18,ClearView Consulting,Facilities,Security service,54,109.76,878.1,HR,C-1002,INV-00043
+PO-00265,2025-07-04,BlueRiver Logistics Ltd,Professional Services,Consulting hours,37,132.07,396.2,HR,C-1004,INV-00381
+PO-00266,2024-02-12,ClearView Consulting,Facilities,Security service,98,25.18,201.45,Marketing,C-1002,INV-00218
+PO-00267,2025-12-06,Metro Business Systems,IT & Software,Cloud subscription,45,12.0,120.02,HR,C-1002,INV-00316
+PO-00268,2025-06-29,BlueRiver Logistics Ltd,Office Supplies,Toner cartridge,36,169.59,1695.91,Marketing,C-1002,INV-00166
+PO-00269,2025-06-10,Metro Business Systems,Hardware,Docking station,87,2793.2,5586.39,Finance,NO-CONTRACT,INV-00031
+PO-00270,2024-05-29,Northstar IT Services,Logistics,Warehouse handling,92,140.74,844.43,Finance,NO-CONTRACT,INV-00251
+PO-00271,2024-04-05,Summit Software Inc,Office Supplies,Desk chair,52,54.92,494.28,Operations,C-1003,INV-00233
+PO-00272,2025-04-14,Pioneer Industrial Supply,Facilities,Maintenance parts,82,354.06,2124.38,IT,C-1004,INV-00204
+PO-00273,2024-10-17,BlueRiver Logistics Ltd,Office Supplies,Notebooks,44,66.11,595.03,Marketing,C-1002,INV-00290
+PO-00274,2024-10-07,Apex Office Supplies Pvt Ltd,Facilities,Maintenance parts,12,10.05,60.3,Operations,C-1001,INV-00191
+PO-00275,2025-12-17,Apex Office Supplies Pvt Ltd,Hardware,Monitor,97,121.03,484.13,HR,C-1001,INV-00361
+PO-00276,2024-08-19,BlueRiver Logistics Ltd,IT & Software,Annual software license,67,72.35,578.83,IT,C-1001,INV-00357
+PO-00277,2024-08-22,Summit Software Inc,Logistics,Freight shipment,50,517.27,1034.54,IT,C-1001,INV-00161
+PO-00278,2024-05-16,Northstar IT Services,Logistics,Courier service,83,80.24,240.73,IT,C-1004,INV-00289
+PO-00279,2024-06-04,Urban Freight Co,IT & Software,Cloud subscription,53,45.68,456.8,HR,C-1002,INV-00045
+PO-00280,2025-03-15,Apex Office Supply Private Limited,IT & Software,Cloud subscription,41,248.0,744.01,Finance,C-1003,INV-00331
+PO-00281,2024-10-18,ClearView Consulting,IT & Software,Cloud subscription,100,1020.67,1020.67,Operations,C-1002,INV-00266
+PO-00282,2024-02-25,BlueRiver Logistics Ltd,Professional Services,Audit support,31,125.66,1005.28,HR,C-1001,INV-00124
+PO-00283,2024-11-20,Pioneer Industrial Supply,Facilities,Security service,17,28.23,197.62,Marketing,NO-CONTRACT,INV-00188
+PO-00284,2024-02-10,Northstar IT Services,Professional Services,Audit support,8,36.58,256.03,Marketing,C-1003,INV-00322
+PO-00285,2025-07-03,Summit Software Inc,Hardware,Network switch,69,82.94,829.41,Finance,C-1003,INV-00043
+PO-00286,2025-08-23,ClearView Consulting,Logistics,Freight shipment,82,142.66,285.31,Operations,NO-CONTRACT,INV-00374
+PO-00287,2025-04-09,BlueRiver Logistics Ltd,Office Supplies,Printer paper,79,20.71,207.07,IT,C-1003,INV-00342
+PO-00288,2024-09-22,Apex Office Supply Private Limited,Hardware,Monitor,22,63.13,378.79,Finance,C-1003,INV-00376
+PO-00289,2024-03-06,GreenLeaf Facilities,IT & Software,Annual software license,34,111.33,1113.35,IT,NO-CONTRACT,INV-00234
+PO-00290,2025-01-11,Apex Office Supplies Pvt Ltd,Professional Services,Training session,21,120.21,601.06,IT,C-1004,INV-00346
+PO-00291,2024-06-02,BlueRiver Logistics Ltd,Hardware,Laptop,23,212.53,212.53,Marketing,NO-CONTRACT,INV-00115
+PO-00292,2024-03-20,Summit Software Inc,Logistics,Freight shipment,74,244.67,1468.03,IT,C-1004,INV-00345
+PO-00293,2024-11-14,BlueRiver Logistics Ltd,IT & Software,Cloud subscription,42,280.32,560.64,Marketing,NO-CONTRACT,INV-00005
+PO-00294,2025-09-29,Metro Business Systems,Logistics,Freight shipment,32,85.99,687.91,Operations,C-1004,INV-00253
+PO-00295,2024-08-26,Northstar IT Services,Office Supplies,Toner cartridge,70,29.61,177.67,IT,C-1003,INV-00001
+PO-00296,2024-08-31,Metro Business Systems,Hardware,Network switch,54,22.03,176.22,IT,C-1002,INV-00365
+PO-00297,2025-01-16,Apex Office Supplies Pvt Ltd,Logistics,Freight shipment,59,331.35,662.69,Marketing,C-1001,INV-00259
+PO-00298,2025-11-09,Apex Office Supply Private Limited,Office Supplies,Notebooks,17,173.57,694.3,Operations,C-1003,INV-00436
+PO-00299,2024-03-17,GreenLeaf Facilities,Logistics,Courier service,26,139.35,418.04,Marketing,C-1001,INV-00080
+PO-00300,2025-07-02,Urban Freight Co,IT & Software,Cloud subscription,46,138.42,553.69,HR,C-1003,INV-00238
+PO-00301,2025-12-22,Apex Office Supply Private Limited,Logistics,Freight shipment,90,12.27,122.7,IT,C-1002,INV-00428
+PO-00302,2024-11-02,Apex Office Supply Private Limited,Logistics,Freight shipment,34,171.11,513.33,IT,NO-CONTRACT,INV-00438
+PO-00303,2024-05-23,ClearView Consulting,Facilities,Security service,16,305.5,305.5,IT,C-1002,INV-00067
+PO-00304,2024-03-17,GreenLeaf Facilities,Office Supplies,Notebooks,3,69.5,139.0,Finance,NO-CONTRACT,INV-00415
+PO-00305,2025-05-23,GreenLeaf Facilities,Office Supplies,Printer paper,4,60.36,422.54,HR,C-1002,INV-00182
+PO-00306,2025-02-25,Metro Business Systems,Office Supplies,Toner cartridge,71,44.46,355.71,IT,C-1001,INV-00144
+PO-00307,2025-07-10,Summit Software Inc,Facilities,Cleaning service,3,95.21,666.44,Operations,NO-CONTRACT,INV-00279
+PO-00308,2024-07-03,Pioneer Industrial Supply,Facilities,Maintenance parts,4,100.88,605.29,Marketing,C-1002,INV-00016
+PO-00309,2024-08-26,Urban Freight Co,Logistics,Freight shipment,21,361.74,723.48,Finance,C-1002,INV-00137
+PO-00310,2024-06-26,Apex Office Supplies Pvt Ltd,Professional Services,Audit support,23,12.21,48.86,Marketing,C-1003,INV-00413
+PO-00311,2025-07-30,Pioneer Industrial Supply,Hardware,Docking station,25,335.65,2685.19,Marketing,C-1003,INV-00090
+PO-00312,2024-01-21,Apex Office Supply Private Limited,Facilities,Cleaning service,68,14.82,118.54,IT,C-1003,INV-00470
+PO-00313,2024-11-27,Northstar IT Services,Professional Services,Consulting hours,8,453.82,453.82,Finance,C-1004,INV-00361
+PO-00314,2024-11-05,ClearView Consulting,Office Supplies,Printer paper,42,169.36,508.08,Finance,NO-CONTRACT,INV-00406
+PO-00315,2025-08-26,GreenLeaf Facilities,Hardware,Network switch,23,147.36,1031.49,Operations,C-1003,INV-00066
+PO-00316,2025-09-18,Pioneer Industrial Supply,Office Supplies,Printer paper,29,398.71,3987.13,IT,NO-CONTRACT,INV-00073
+PO-00317,2025-04-02,Apex Office Supply Private Limited,Logistics,Warehouse handling,2,720.62,3603.11,Finance,C-1002,INV-00355
+PO-00318,2024-02-19,Metro Business Systems,IT & Software,Laptop,50,336.14,2689.12,HR,C-1002,INV-00453
+PO-00319,2025-05-05,Summit Software Inc,Facilities,Maintenance parts,74,106.31,425.26,Finance,NO-CONTRACT,INV-00038
+PO-00320,2025-07-14,Apex Office Supplies Pvt Ltd,IT & Software,Laptop,12,50.94,305.64,Marketing,C-1004,INV-00458
+PO-00321,2025-09-13,Apex Office Supplies Pvt Ltd,Facilities,Security service,56,150.24,450.73,IT,C-1001,INV-00170
+PO-00322,2025-07-07,Summit Software Inc,Office Supplies,Toner cartridge,34,338.68,1693.41,Operations,C-1002,INV-00050
+PO-00323,2024-02-25,Pioneer Industrial Supply,IT & Software,Monitor,47,693.85,693.85,HR,C-1001,INV-00151
+PO-00324,2025-10-15,BlueRiver Logistics Ltd,Hardware,Network switch,38,143.43,286.85,HR,C-1001,INV-00158
+PO-00325,2025-10-19,Urban Freight Co,Facilities,Maintenance parts,70,188.2,1317.41,Finance,C-1003,INV-00454
+PO-00326,2025-04-21,Northstar IT Services,Facilities,Maintenance parts,34,135.15,540.59,Operations,C-1004,INV-00032
+PO-00327,2025-02-27,Apex Office Supply Private Limited,Office Supplies,Printer paper,97,216.07,2160.72,Finance,C-1004,INV-00032
+PO-00328,2024-08-29,Summit Software Inc,Facilities,Security service,61,533.65,2668.23,IT,NO-CONTRACT,INV-00463
+PO-00329,2025-08-08,ClearView Consulting,Hardware,Laptop,87,74.62,746.16,Finance,C-1001,INV-00388
+PO-00330,2025-11-30,Northstar IT Services,Facilities,Cleaning service,56,58.46,233.85,Finance,C-1004,INV-00133
+PO-00331,2025-07-19,Apex Office Supply Private Limited,Logistics,Warehouse handling,42,30.97,154.87,Marketing,NO-CONTRACT,INV-00470
+PO-00332,2025-08-25,Apex Office Supply Private Limited,IT & Software,Monitor,75,259.93,519.85,IT,C-1004,INV-00400
+PO-00333,2025-08-08,ClearView Consulting,IT & Software,Laptop,78,27.78,222.23,IT,C-1002,INV-00142
+PO-00334,2024-02-09,Pioneer Industrial Supply,Facilities,Cleaning service,51,168.25,1009.5,Finance,C-1001,INV-00382
+PO-00335,2025-05-18,GreenLeaf Facilities,Facilities,Maintenance parts,90,201.91,403.81,Finance,C-1002,INV-00154
+PO-00336,2025-10-23,GreenLeaf Facilities,Hardware,Network switch,12,84.54,338.15,HR,C-1002,INV-00468
+PO-00337,2024-06-11,Urban Freight Co,Facilities,Security service,9,316.17,1580.83,Marketing,NO-CONTRACT,INV-00070
+PO-00338,2025-01-12,Apex Office Supplies Pvt Ltd,Professional Services,Audit support,60,51.86,466.74,HR,C-1001,INV-00349
+PO-00339,2025-04-30,GreenLeaf Facilities,IT & Software,Cloud subscription,76,64.93,584.34,Operations,C-1003,INV-00084
+PO-00340,2024-06-15,Apex Office Supply Private Limited,Logistics,Warehouse handling,74,90.27,361.08,Finance,C-1002,INV-00347
+PO-00341,2025-11-29,Summit Software Inc,Office Supplies,Desk chair,2,86.8,694.41,Finance,C-1002,INV-00308
+PO-00342,2025-12-30,Metro Business Systems,IT & Software,Cloud subscription,91,1924.66,9623.29,HR,NO-CONTRACT,INV-00437
+PO-00343,2025-06-17,Metro Business Systems,Logistics,Courier service,80,47.72,334.01,Marketing,C-1001,INV-00004
+PO-00344,2024-10-16,GreenLeaf Facilities,Professional Services,Audit support,39,375.2,750.4,HR,C-1001,INV-00173
+PO-00345,2025-12-29,GreenLeaf Facilities,Logistics,Warehouse handling,84,245.67,1228.36,Finance,C-1002,INV-00265
+PO-00346,2024-05-23,Pioneer Industrial Supply,Office Supplies,Printer paper,93,490.03,490.03,HR,C-1003,INV-00133
+PO-00347,2025-08-08,Summit Software Inc,Facilities,Maintenance parts,25,229.55,1377.29,Finance,C-1004,INV-00327
+PO-00348,2025-11-04,GreenLeaf Facilities,Facilities,Security service,72,214.95,644.84,Operations,C-1001,INV-00242
+PO-00349,2025-11-27,ClearView Consulting,Office Supplies,Desk chair,43,481.14,962.28,Finance,C-1003,INV-00115
+PO-00350,2024-09-23,Summit Software Inc,Hardware,Docking station,75,225.61,1128.04,HR,C-1001,INV-00241
+PO-00351,2025-11-28,Urban Freight Co,IT & Software,Annual software license,49,208.43,1875.83,Operations,NO-CONTRACT,INV-00028
+PO-00352,2025-04-07,BlueRiver Logistics Ltd,Office Supplies,Toner cartridge,36,112.72,450.86,Finance,C-1004,INV-00392
+PO-00353,2025-03-15,Apex Office Supply Private Limited,Office Supplies,Notebooks,52,33.11,231.76,HR,NO-CONTRACT,INV-00003
+PO-00354,2024-01-19,GreenLeaf Facilities,IT & Software,Cloud subscription,87,1337.61,1337.61,Finance,C-1002,INV-00356
+PO-00355,2024-11-09,Northstar IT Services,Logistics,Courier service,22,93.73,187.46,IT,C-1003,INV-00149
+PO-00356,2025-12-04,ClearView Consulting,Facilities,Security service,18,124.02,744.14,HR,C-1003,INV-00385
+PO-00357,2024-05-06,Summit Software Inc,Office Supplies,Toner cartridge,47,147.33,147.33,HR,C-1003,INV-00395
+PO-00358,2024-04-20,Apex Office Supplies Pvt Ltd,Professional Services,Audit support,84,694.96,694.96,IT,C-1001,INV-00214
+PO-00359,2024-06-05,Apex Office Supply Private Limited,Facilities,Maintenance parts,27,686.21,686.21,Operations,NO-CONTRACT,INV-00339
+PO-00360,2024-04-17,Pioneer Industrial Supply,IT & Software,Laptop,66,71.95,719.48,IT,C-1003,INV-00059
+PO-00361,2025-06-19,BlueRiver Logistics Ltd,IT & Software,Monitor,26,205.22,1231.32,HR,C-1003,INV-00083
+PO-00362,2024-08-28,BlueRiver Logistics Ltd,IT & Software,Monitor,1,1020.9,1020.9,IT,C-1001,INV-00428
+PO-00363,2024-04-13,Urban Freight Co,Professional Services,Audit support,33,160.04,640.18,HR,C-1003,INV-00136
+PO-00364,2025-11-24,Apex Office Supply Private Limited,Facilities,Cleaning service,41,191.89,1343.25,IT,C-1001,INV-00436
+PO-00365,2025-01-01,Northstar IT Services,IT & Software,Annual software license,57,80.2,802.05,Operations,C-1001,INV-00191
+PO-00366,2025-05-04,Apex Office Supply Private Limited,Logistics,Freight shipment,54,116.72,350.15,IT,C-1002,INV-00357
+PO-00367,2025-03-24,Northstar IT Services,Hardware,Laptop,24,56.76,567.59,HR,C-1003,INV-00314
+PO-00368,2024-09-24,Urban Freight Co,IT & Software,Cloud subscription,84,87.59,525.53,IT,C-1004,INV-00393
+PO-00369,2025-09-25,GreenLeaf Facilities,Hardware,Monitor,13,94.01,658.09,Finance,NO-CONTRACT,INV-00178
+PO-00370,2025-09-19,Northstar IT Services,Hardware,Network switch,7,1843.41,1843.41,Finance,C-1004,INV-00435
+PO-00371,2024-09-03,Northstar IT Services,Facilities,Maintenance parts,43,35.55,177.77,IT,C-1004,INV-00115
+PO-00372,2025-04-15,Summit Software Inc,Professional Services,Audit support,57,50.05,500.51,HR,C-1001,INV-00439
+PO-00373,2025-10-31,GreenLeaf Facilities,Facilities,Maintenance parts,3,99.55,199.1,HR,NO-CONTRACT,INV-00019
+PO-00374,2025-11-01,Apex Office Supplies Pvt Ltd,Professional Services,Audit support,86,275.98,2207.8,Operations,C-1003,INV-00423
+PO-00375,2025-09-06,Urban Freight Co,IT & Software,Cloud subscription,61,34.98,209.88,HR,C-1001,INV-00050
+PO-00376,2024-10-25,Apex Office Supplies Pvt Ltd,Hardware,Monitor,71,17.17,154.49,Operations,C-1001,INV-00024
+PO-00377,2025-02-23,Northstar IT Services,Office Supplies,Notebooks,14,744.85,3724.25,Marketing,C-1002,INV-00097
+PO-00378,2024-12-12,BlueRiver Logistics Ltd,IT & Software,Monitor,14,64.56,451.89,IT,C-1004,INV-00064
+PO-00379,2024-02-19,Pioneer Industrial Supply,Facilities,Maintenance parts,71,85.67,599.66,Marketing,NO-CONTRACT,INV-00261
+PO-00380,2025-09-12,Northstar IT Services,Office Supplies,Toner cartridge,42,12.36,111.28,HR,NO-CONTRACT,INV-00312
+PO-00381,2024-10-28,Metro Business Systems,Hardware,Monitor,58,159.93,479.8,Finance,NO-CONTRACT,INV-00309
+PO-00382,2025-07-20,ClearView Consulting,Hardware,Docking station,81,933.78,3735.12,Finance,C-1002,INV-00320
+PO-00383,2025-10-14,GreenLeaf Facilities,Hardware,Docking station,42,107.77,215.53,Operations,C-1004,INV-00246
+PO-00384,2025-06-30,Summit Software Inc,Professional Services,Audit support,37,942.05,6594.36,IT,C-1004,INV-00055
+PO-00385,2024-10-20,Northstar IT Services,IT & Software,Monitor,88,24.69,123.43,Finance,C-1001,INV-00354
+PO-00386,2024-08-31,ClearView Consulting,Logistics,Freight shipment,66,269.42,1347.09,IT,NO-CONTRACT,INV-00199
+PO-00387,2025-03-29,GreenLeaf Facilities,Facilities,Security service,29,156.66,939.99,Marketing,C-1004,INV-00379
+PO-00388,2025-11-30,BlueRiver Logistics Ltd,Professional Services,Consulting hours,10,139.28,417.85,Finance,C-1004,INV-00062
+PO-00389,2024-06-13,Summit Software Inc,Facilities,Cleaning service,75,77.69,388.47,IT,C-1003,INV-00239
+PO-00390,2024-02-22,Apex Office Supplies Pvt Ltd,Hardware,Monitor,100,28.56,285.58,Operations,NO-CONTRACT,INV-00405
+PO-00391,2025-06-17,GreenLeaf Facilities,Professional Services,Audit support,9,2372.67,21354.0,Finance,NO-CONTRACT,INV-00279
+PO-00392,2025-11-10,Apex Office Supply Private Limited,Professional Services,Training session,43,15.26,91.53,Operations,C-1003,INV-00112
+PO-00393,2025-10-19,Urban Freight Co,Professional Services,Audit support,79,93.86,938.61,Finance,C-1001,INV-00350
+PO-00394,2024-10-16,Apex Office Supply Private Limited,Logistics,Courier service,4,46.56,419.07,Operations,C-1004,INV-00412
+PO-00395,2024-04-08,Urban Freight Co,Professional Services,Training session,22,26.59,239.27,Marketing,C-1001,INV-00321
+PO-00396,2024-04-16,BlueRiver Logistics Ltd,IT & Software,Cloud subscription,27,168.51,1516.63,HR,C-1001,INV-00383
+PO-00397,2024-03-30,Apex Office Supplies Pvt Ltd,Hardware,Monitor,10,550.61,550.61,Finance,C-1003,INV-00286
+PO-00398,2025-02-18,Metro Business Systems,IT & Software,Cloud subscription,56,78.48,470.88,IT,NO-CONTRACT,INV-00345
+PO-00399,2024-10-23,Pioneer Industrial Supply,IT & Software,Annual software license,88,79.3,396.48,Marketing,C-1001,INV-00145
+PO-00400,2025-02-04,Summit Software Inc,Facilities,Maintenance parts,70,63.32,316.59,Finance,C-1003,INV-00347
+PO-00401,2024-05-06,Apex Office Supplies Pvt Ltd,Hardware,Docking station,6,717.25,717.25,Marketing,C-1004,INV-00202
+PO-00402,2024-12-18,Apex Office Supply Private Limited,Professional Services,Audit support,28,27.73,194.13,Marketing,C-1002,INV-00083
+PO-00403,2024-07-04,Pioneer Industrial Supply,Office Supplies,Toner cartridge,86,110.31,1103.08,IT,C-1004,INV-00237
+PO-00404,2024-07-21,Metro Business Systems,Hardware,Laptop,93,84.06,840.59,HR,C-1003,INV-00183
+PO-00405,2024-07-17,Apex Office Supply Private Limited,Office Supplies,Toner cartridge,41,53.72,429.74,HR,C-1003,INV-00316
+PO-00406,2024-11-19,Pioneer Industrial Supply,Hardware,Docking station,55,62.25,186.75,IT,C-1003,INV-00127
+PO-00407,2024-12-05,Metro Business Systems,Office Supplies,Notebooks,62,133.41,1067.3,HR,C-1003,INV-00397
+PO-00408,2024-03-24,ClearView Consulting,Logistics,Courier service,36,40.13,120.39,Marketing,C-1002,INV-00135
+PO-00409,2025-08-15,Apex Office Supply Private Limited,Hardware,Laptop,52,167.65,1676.47,Finance,C-1001,INV-00283
+PO-00410,2025-01-09,ClearView Consulting,Logistics,Warehouse handling,51,125.56,502.23,Marketing,C-1003,INV-00069
+PO-00411,2024-01-11,ClearView Consulting,Facilities,Security service,85,58.86,235.44,Marketing,C-1002,INV-00388
+PO-00412,2025-08-02,Urban Freight Co,Professional Services,Consulting hours,85,63.78,191.34,HR,C-1003,INV-00021
+PO-00413,2024-02-13,BlueRiver Logistics Ltd,Office Supplies,Notebooks,86,54.75,219.01,Marketing,C-1003,INV-00199
+PO-00414,2024-09-26,Apex Office Supplies Pvt Ltd,Facilities,Maintenance parts,75,87.43,786.89,Marketing,C-1002,INV-00193
+PO-00415,2024-03-20,GreenLeaf Facilities,Hardware,Network switch,67,422.76,2113.82,HR,C-1002,INV-00265
+PO-00416,2025-09-10,GreenLeaf Facilities,Facilities,Maintenance parts,1,64.44,579.99,Finance,NO-CONTRACT,INV-00085
+PO-00417,2024-07-10,ClearView Consulting,Office Supplies,Printer paper,21,130.79,784.73,Marketing,C-1001,INV-00339
+PO-00418,2025-05-05,GreenLeaf Facilities,Office Supplies,Notebooks,62,279.55,1118.18,Marketing,C-1002,INV-00332
+PO-00419,2024-06-13,BlueRiver Logistics Ltd,Facilities,Cleaning service,18,14.02,126.22,IT,C-1004,INV-00076
+PO-00420,2025-02-19,Metro Business Systems,IT & Software,Cloud subscription,77,215.26,2152.61,IT,C-1003,INV-00044
+PO-00421,2024-07-05,Pioneer Industrial Supply,Office Supplies,Notebooks,80,136.83,1231.44,Operations,C-1002,INV-00371
+PO-00422,2025-01-22,Urban Freight Co,Hardware,Docking station,50,233.35,700.06,IT,C-1001,INV-00104
+PO-00423,2024-06-30,Summit Software Inc,Professional Services,Audit support,61,201.21,2012.1,Marketing,C-1001,INV-00450
+PO-00424,2025-09-09,Apex Office Supply Private Limited,Professional Services,Audit support,70,105.46,105.46,HR,C-1004,INV-00216
+PO-00425,2025-05-08,ClearView Consulting,Logistics,Freight shipment,99,15.99,111.91,Operations,C-1004,INV-00412
+PO-00426,2024-08-26,Summit Software Inc,Hardware,Laptop,11,43.36,216.79,Marketing,C-1004,INV-00210
+PO-00427,2025-08-14,Apex Office Supplies Pvt Ltd,Logistics,Freight shipment,67,1280.69,2561.39,Marketing,C-1001,INV-00193
+PO-00428,2025-03-12,GreenLeaf Facilities,Hardware,Monitor,84,51.86,518.65,Operations,C-1003,INV-00438
+PO-00429,2025-11-27,Pioneer Industrial Supply,Professional Services,Training session,51,114.81,459.23,HR,C-1004,INV-00402
+PO-00430,2024-09-16,Northstar IT Services,Professional Services,Training session,40,39.34,393.39,Operations,NO-CONTRACT,INV-00377
+PO-00431,2024-06-14,BlueRiver Logistics Ltd,Office Supplies,Printer paper,13,116.13,464.52,Marketing,NO-CONTRACT,INV-00403
+PO-00432,2024-06-13,Pioneer Industrial Supply,Logistics,Warehouse handling,50,1603.61,1603.61,IT,C-1002,INV-00242
+PO-00433,2024-03-22,Apex Office Supply Private Limited,Professional Services,Training session,78,265.92,265.92,HR,NO-CONTRACT,INV-00315
+PO-00434,2024-01-11,Pioneer Industrial Supply,Hardware,Docking station,26,26.21,235.92,Operations,C-1002,INV-00018
+PO-00435,2025-11-21,ClearView Consulting,Professional Services,Audit support,5,212.78,1276.66,Finance,C-1001,INV-00081
+PO-00436,2025-08-23,Summit Software Inc,IT & Software,Laptop,26,46.93,422.39,IT,C-1001,INV-00047
+PO-00437,2024-10-10,ClearView Consulting,Professional Services,Training session,29,152.28,1522.8,Finance,NO-CONTRACT,INV-00207
+PO-00438,2025-07-26,Metro Business Systems,Professional Services,Consulting hours,10,25.61,230.51,Operations,C-1003,INV-00060
+PO-00439,2025-12-11,ClearView Consulting,Professional Services,Training session,57,251.7,1761.92,Marketing,NO-CONTRACT,INV-00395
+PO-00440,2024-01-29,Urban Freight Co,Office Supplies,Desk chair,62,3888.99,7777.99,Operations,C-1001,INV-00196
+PO-00441,2024-12-27,BlueRiver Logistics Ltd,Hardware,Monitor,67,140.85,1267.65,IT,C-1003,INV-00128
+PO-00442,2024-03-18,Summit Software Inc,Logistics,Freight shipment,71,826.32,2478.97,HR,C-1003,INV-00182
+PO-00443,2024-07-23,Northstar IT Services,Office Supplies,Desk chair,31,496.12,1984.5,Operations,C-1002,INV-00118
+PO-00444,2024-05-02,Pioneer Industrial Supply,Office Supplies,Toner cartridge,11,29.1,232.83,Marketing,C-1001,INV-00392
+PO-00445,2025-08-11,Urban Freight Co,Professional Services,Consulting hours,36,57.18,457.44,Finance,C-1004,INV-00144
+PO-00446,2025-03-09,Pioneer Industrial Supply,Facilities,Cleaning service,62,21.32,191.9,IT,C-1004,INV-00178
+PO-00447,2025-06-14,Northstar IT Services,Facilities,Security service,59,93.44,560.62,IT,C-1001,INV-00346
+PO-00448,2024-09-22,Pioneer Industrial Supply,Office Supplies,Notebooks,24,26.86,241.78,Operations,C-1002,INV-00138
+PO-00449,2024-08-03,GreenLeaf Facilities,Facilities,Security service,54,67.91,407.46,Operations,NO-CONTRACT,INV-00144
+PO-00450,2024-08-22,Pioneer Industrial Supply,Facilities,Cleaning service,13,33.86,169.31,Finance,C-1004,INV-00222
+PO-00451,2025-04-29,Northstar IT Services,Facilities,Cleaning service,2,1069.29,3207.87,HR,NO-CONTRACT,INV-00069
+PO-00452,2025-08-04,Urban Freight Co,Hardware,Docking station,7,44.17,309.22,IT,C-1002,INV-00031
+PO-00453,2025-01-03,Urban Freight Co,Office Supplies,Desk chair,72,108.27,974.41,Operations,C-1003,INV-00011
+PO-00454,2025-10-26,GreenLeaf Facilities,Facilities,Cleaning service,69,71.26,213.78,Operations,C-1003,INV-00167
+PO-00455,2024-10-20,Urban Freight Co,Hardware,Network switch,60,502.38,1507.15,Finance,C-1003,INV-00216
+PO-00456,2024-11-17,Apex Office Supply Private Limited,Hardware,Network switch,41,47.25,236.27,Operations,C-1004,INV-00331
+PO-00457,2025-04-06,Urban Freight Co,Facilities,Maintenance parts,53,426.64,1279.92,Finance,C-1001,INV-00065
+PO-00458,2024-01-27,Metro Business Systems,Hardware,Monitor,99,292.06,2044.42,Marketing,C-1001,INV-00054
+PO-00459,2024-10-17,Northstar IT Services,Logistics,Warehouse handling,57,162.87,488.61,Finance,C-1004,INV-00430
+PO-00460,2024-11-29,Apex Office Supplies Pvt Ltd,Office Supplies,Printer paper,61,415.11,3320.86,Marketing,C-1003,INV-00281
+PO-00461,2025-10-08,ClearView Consulting,Facilities,Cleaning service,96,18.67,186.74,HR,C-1004,INV-00328
+PO-00462,2024-04-01,GreenLeaf Facilities,Hardware,Docking station,57,116.27,581.37,Operations,NO-CONTRACT,INV-00134
+PO-00463,2025-04-25,Apex Office Supplies Pvt Ltd,Office Supplies,Desk chair,69,1304.14,1304.14,HR,NO-CONTRACT,INV-00154
+PO-00464,2025-07-15,Metro Business Systems,IT & Software,Monitor,48,301.78,1207.13,HR,C-1004,INV-00224
+PO-00465,2025-01-22,Northstar IT Services,Facilities,Cleaning service,29,291.75,1458.77,IT,NO-CONTRACT,INV-00321
+PO-00466,2024-10-02,Metro Business Systems,Office Supplies,Desk chair,53,238.94,955.76,IT,C-1002,INV-00070
+PO-00467,2025-09-29,Urban Freight Co,Logistics,Freight shipment,63,190.48,761.93,Operations,C-1001,INV-00078
+PO-00468,2024-05-08,Northstar IT Services,IT & Software,Annual software license,92,196.37,1570.93,IT,C-1002,INV-00047
+PO-00469,2025-05-25,Urban Freight Co,Office Supplies,Printer paper,48,36.94,295.5,IT,C-1003,INV-00042
+PO-00470,2025-04-26,Metro Business Systems,Office Supplies,Printer paper,24,231.96,927.84,Operations,NO-CONTRACT,INV-00425
+PO-00471,2024-04-06,BlueRiver Logistics Ltd,IT & Software,Annual software license,67,28.68,114.74,HR,NO-CONTRACT,INV-00349
+PO-00472,2025-07-16,Northstar IT Services,Logistics,Courier service,67,366.31,732.63,Operations,NO-CONTRACT,INV-00327
+PO-00473,2025-10-10,GreenLeaf Facilities,Logistics,Freight shipment,56,63.07,378.45,IT,C-1002,INV-00407
+PO-00474,2024-02-13,Apex Office Supply Private Limited,Logistics,Warehouse handling,75,61.55,492.39,Marketing,C-1002,INV-00191
+PO-00475,2024-12-12,Northstar IT Services,IT & Software,Cloud subscription,98,601.62,601.62,IT,C-1003,INV-00331
+PO-00476,2025-07-25,Northstar IT Services,Office Supplies,Printer paper,83,97.74,586.43,HR,C-1002,INV-00011
+PO-00477,2024-02-10,GreenLeaf Facilities,Hardware,Network switch,63,116.43,931.41,Marketing,C-1003,INV-00278
+PO-00478,2024-11-27,BlueRiver Logistics Ltd,Hardware,Network switch,94,93.1,744.8,Operations,C-1004,INV-00469
+PO-00479,2024-09-26,Apex Office Supply Private Limited,Professional Services,Consulting hours,70,108.93,653.58,HR,C-1001,INV-00398
+PO-00480,2025-01-07,Northstar IT Services,Hardware,Network switch,100,261.34,2613.45,Finance,C-1003,INV-00370
+PO-00481,2025-07-18,BlueRiver Logistics Ltd,IT & Software,Monitor,20,64.54,645.39,Operations,C-1003,INV-00210
+PO-00482,2024-02-14,Apex Office Supply Private Limited,Hardware,Docking station,17,35.71,107.13,IT,C-1002,INV-00055
+PO-00483,2025-09-30,Apex Office Supply Private Limited,Facilities,Cleaning service,90,43.77,437.7,Operations,C-1001,INV-00188
+PO-00484,2025-05-18,Apex Office Supplies Pvt Ltd,Office Supplies,Printer paper,11,166.23,1329.86,IT,C-1003,INV-00286
+PO-00485,2024-03-13,GreenLeaf Facilities,Hardware,Network switch,39,432.2,864.4,Finance,C-1004,INV-00050
+PO-00486,2025-11-03,ClearView Consulting,IT & Software,Cloud subscription,32,48.92,489.2,Finance,C-1004,INV-00384
+PO-00487,2025-11-21,Apex Office Supply Private Limited,Professional Services,Training session,59,215.1,1505.69,IT,C-1002,INV-00406
+PO-00488,2025-09-06,ClearView Consulting,Office Supplies,Notebooks,57,75.7,454.2,Operations,C-1004,INV-00167
+PO-00489,2024-09-03,Summit Software Inc,Logistics,Courier service,73,135.06,1215.58,Finance,NO-CONTRACT,INV-00393
+PO-00490,2025-02-10,Metro Business Systems,Professional Services,Audit support,1,414.56,414.56,Operations,C-1004,INV-00009
+PO-00491,2025-12-07,Metro Business Systems,Professional Services,Consulting hours,36,36.44,328.0,Marketing,C-1004,INV-00293
+PO-00492,2024-05-21,Apex Office Supply Private Limited,Professional Services,Consulting hours,34,35.24,211.42,Marketing,C-1002,INV-00120
+PO-00493,2024-08-10,Apex Office Supply Private Limited,Logistics,Courier service,94,381.98,763.96,Operations,NO-CONTRACT,INV-00089
+PO-00494,2025-10-19,Pioneer Industrial Supply,Facilities,Security service,39,1007.3,1007.3,Marketing,NO-CONTRACT,INV-00041
+PO-00495,2024-05-03,GreenLeaf Facilities,IT & Software,Laptop,99,400.5,1601.98,Marketing,C-1001,INV-00325
+PO-00496,2025-07-06,Apex Office Supplies Pvt Ltd,Hardware,Network switch,73,149.08,447.25,Operations,C-1004,INV-00358
+PO-00497,2025-03-18,Apex Office Supplies Pvt Ltd,Office Supplies,Toner cartridge,38,97.0,678.99,Finance,C-1002,INV-00173
+PO-00498,2024-09-25,Pioneer Industrial Supply,IT & Software,Monitor,11,189.76,1328.33,Marketing,NO-CONTRACT,INV-00397
+PO-00499,2025-02-08,Northstar IT Services,Hardware,Monitor,84,58.13,581.32,Finance,C-1004,INV-00316
+PO-00500,2024-11-24,BlueRiver Logistics Ltd,Hardware,Monitor,45,50.72,507.21,IT,C-1003,INV-00087
