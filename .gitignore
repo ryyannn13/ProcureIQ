@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+
+# Generated exports
+outputs/
+*.xlsx
+*.pdf
+
+# Local datasets — check licensing before publishing
+data/raw/
