@@ -124,16 +124,6 @@ procureiq_spend_analytics/
 
 Folder contents may vary slightly by project version.
 
-## Business questions this project supports
-
-- Which suppliers account for the largest share of spend?
-- Which categories consume the most budget?
-- How does spend change month over month?
-- Is spend concentrated among a small number of suppliers?
-- Which large or unusual transactions should be reviewed?
-- Are supplier names potentially duplicated or inconsistently formatted?
-- Are required supplier, category, amount, and date fields complete and valid?
-
 ## Metric definitions and interpretation
 
 - **Total spend:** sum of usable numeric transaction amounts.
@@ -144,46 +134,5 @@ Folder contents may vary slightly by project version.
 - **Supplier normalization:** a standardized text key for matching; it does not automatically merge supplier records.
 - **Spend concentration / HHI:** measures how much spend is distributed across suppliers; interpret it in the context of the dataset and category.
 - **Potential savings:** ProcureIQ does not claim realized savings. Any savings estimate needs explicit assumptions and business validation.
+est discover -s tests -v
 
-## Screenshots
-
-Add screenshots of your own running dashboard here before publishing. Suggested captures:
-
-1. Overview — KPI cards, monthly trend, and category spend.
-2. Supplier analysis — ranked suppliers and concentration.
-3. Data quality — quality checks and review findings.
-4. Opportunities — flagged transactions and the maverick-spend proxy.
-5. Executive report — report download and Excel analysis pack.
-6. Filters — supplier/category/date selections and the updated results.
-
-For example, create a `screenshots/` folder and then embed images using relative paths:
-
-```markdown
-![ProcureIQ overview](screenshots/overview.png)
-```
-
-Only add screenshots captured from the final working version of the application.
-
-## Tests
-
-Run the project's unit tests from the repository root:
-
-```powershell
-python -m unittest discover -s tests -v
-```
-
-## Resume-ready project description
-
-**ProcureIQ — Procurement Spend Analytics & Cost Optimization**
-
-- Built a Python and Streamlit procurement analytics application with interactive supplier, category, and date filters; monthly spend trends; supplier/category scorecards; and concentration metrics.
-- Implemented data-quality validation, supplier-name normalization, potential duplicate-transaction screening, and statistical outlier review, with downloadable executive reporting and multi-sheet Excel exports.
-
-Keep the bullets accurate to the version you have run and validated. Add measured results only after confirming them from your own dataset.
-
-## Future enhancements
-
-- Add a reviewed supplier-alias dictionary and an approve/reject workflow for candidate matches.
-- Add category taxonomy mapping with explicit business rules.
-- Add budget-versus-actual analysis only when reliable budget fields are available.
-- Add role-based access and audit history if adapting the app for real business use.
